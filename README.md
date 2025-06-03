@@ -1,2 +1,2 @@
 # whenareyou
-a webpage of whenareyou.org
+a web of whenareyou.org
