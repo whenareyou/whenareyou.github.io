@@ -1,2 +1,2 @@
-# whenareyou.github.io
-webpage of whenareyou
+# whenareyou
+a webpage of whenareyou.org
