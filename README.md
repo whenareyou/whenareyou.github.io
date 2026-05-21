@@ -1,2 +1,2 @@
-# whenareyou
-a web of whenareyou.org
+# When Are You
+A Fine Academic Cosmopolis
